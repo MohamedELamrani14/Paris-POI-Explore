@@ -85,4 +85,10 @@ Une **carte interactive Leaflet** :
 - Accessible en local (ouvrir `index.html` dans un navigateur).  
 - Ou en ligne via **GitHub Pages**.
 
+## pour acceder au site web : https://paris-poi-explore.vercel.app/
+
+![ ](images/1.png)
+![ ](images/2.png)
+![ ](images/3.png)
+
 
