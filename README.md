@@ -85,8 +85,4 @@ Une **carte interactive Leaflet** :
 - Accessible en local (ouvrir `index.html` dans un navigateur).  
 - Ou en ligne via **GitHub Pages**.
 
-Pour tester en local avec Python :
-```bash
-cd SIG_Paris_POI
-python -m http.server 8000
 
